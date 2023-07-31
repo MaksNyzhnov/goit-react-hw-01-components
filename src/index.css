@@ -29,5 +29,5 @@ li {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  align-items: start;
+  align-items: flex-start;
 }
